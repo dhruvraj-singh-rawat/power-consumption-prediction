@@ -1,6 +1,6 @@
 ## power-consumption-prediction
 
-The [dataset]((https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city) related to power consumption of three different distribution networks of Tetouan city which is located in north Morocco is used for analysis. 
+The [dataset](https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city) related to power consumption of three different distribution networks of Tetouan city which is located in north Morocco is used for analysis. 
 
 Relative importance of each feature is calculated using SelectKbest and Permutation Importance. 
 
